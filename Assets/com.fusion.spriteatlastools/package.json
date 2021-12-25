@@ -1,0 +1,14 @@
+{
+  "name": "com.fusion.spriteatlastools",
+  "version": "0.0.1",
+  "displayName": "SpriteAtlasTools",
+  "description": "Sprite Atlas Tools  1.atlas pack  2.altas assetsbundle pack 3.sprite&&atlas address map",
+  "unity": "2018.4",
+  "keywords": [
+    "SpriteAtlas",
+    "Tools"
+  ],
+  "author": {
+    "name": "kagawa"
+  }
+}
